@@ -1,5 +1,5 @@
 # Movie-recommendation-System
-This project utilizes pandas, Scikit-learn, numpy, pickle, streamlit(creating simple and elegant web applications in pure Python) to create a basic project on movie recommendation system. The system is designed to take an input of movies from the user and recommend five similar movies from the tmdb-5000-movies available on Kaggle.
+This project utilizes pandas, Scikit-learn, numpy, pickle, streamlit(creating simple and elegant web applications in pure Python) to create a basic project on movie recommendation system. The system is designed to take an input of movies from the user and recommend five similar movies from the tmdb-5000-movies available on kaggle [(https://www.kaggle.com/datasets/tanvirshera/tmdb-5000-movies)]
 
 Features
 Recommends five movies similar to the input movie from the tmdb_5000_movies Dataset.

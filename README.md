@@ -33,6 +33,10 @@ This project is beneficial for developers and machine learning enthusiasts looki
    ```
 6. A webpage will open in your browser where you can enter a movie existing in the dataset and click on **Recommend** to get recommendations.
 
+   ![Streamlit App Running](./image.png)
+
+   ![Movie Recommendation Web App](./image2.png)
+
 ## Additional Information
 ### Links and Resources
 - **Movies Dataset on Kaggle:** [Link to Dataset](https://www.kaggle.com/)
